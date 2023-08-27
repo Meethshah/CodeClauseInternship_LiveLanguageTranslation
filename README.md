@@ -7,5 +7,7 @@ The Live Language Translation project is a web application built using HTML, CSS
     3)Responsive Design: The project utilizes CSS for responsive design, ensuring that the application is accessible and functional across vari ous devices and screen sizes.
 #  Technologies Used
 HTML: The project's structure and user interface components are created using HTML to provide a clear and organized layout.
+
 CSS: Cascading Style Sheets (CSS) are employed to style the application, making it visually appealing and user-friendly.
+
 JavaScript: The core functionality of the application is implemented using JavaScript. This includes handling user input, triggering translation events, and updating the UI with translated content.
